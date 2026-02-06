@@ -1,8 +1,8 @@
-version: 2.10.0
-path: CodeBox_Setup_2.10.0.exe
-sha512: BWnkziLs1NWKfkWTJI+UsZkkpjs88C3fmO2hyQEy2ONDj4ykSIaxOBBw46VSjdUU3dbizkyRJkRhEysUM5yJvA==
-releaseDate: '2026-02-06T13:01:28.752377+00:00'
+version: 2.11.0
+path: CodeBox_Setup_2.11.0.exe
+sha512: 1Za6aBpMrN9Oyb8RXnAuG6ZOgxIrAiVS+U3vzxNPxEKBImw5hwQy/Y9B3S2EfZMR91RWGBymguvol023q+eEsA==
+releaseDate: '2026-02-06T14:54:02.631855+00:00'
 files:
-  - url: CodeBox_Setup_2.10.0.exe
-    sha512: BWnkziLs1NWKfkWTJI+UsZkkpjs88C3fmO2hyQEy2ONDj4ykSIaxOBBw46VSjdUU3dbizkyRJkRhEysUM5yJvA==
-    size: 713254396
+  - url: CodeBox_Setup_2.11.0.exe
+    sha512: 1Za6aBpMrN9Oyb8RXnAuG6ZOgxIrAiVS+U3vzxNPxEKBImw5hwQy/Y9B3S2EfZMR91RWGBymguvol023q+eEsA==
+    size: 241155877
